@@ -1,0 +1,2 @@
+void transfer_money();
+
